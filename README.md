@@ -68,9 +68,9 @@ This project explores the **use of Super Absorbent Polymers (SAPs)** in agricult
 
 ## 📚 References
 
-- Research on biodegradable SAPs  
-- Soil retention models (e.g., Brooks-Corey)  
-- Agriculture chemistry and polymer engineering papers
+- [Water Retention Characteristics of Superabsorbent Polymers (SAPs) Used as Soil Amendments](https://www.mdpi.com/2571-8789/7/2/58)
+- [Research of Water Absorption and Release Mechanism of Superabsorbent Polymer in Cement Paste](https://www.mdpi.com/2073-4360/15/14/3062)
+- [Brooks-Corey capillary pressure model — GEOS documentation](https://geosx-geosx.readthedocs-hosted.com/en/latest/coreComponents/constitutive/docs/BrooksCoreyCapillaryPressure.html)
 
 ---
 
