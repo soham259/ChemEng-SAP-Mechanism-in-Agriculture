@@ -59,12 +59,12 @@ This project explores the **use of Super Absorbent Polymers (SAPs)** in agricult
 
 ---
 
-## 👨‍🔬 Team Members
+## 👨‍💻 Team Members
 
-- [Your Name]  
-- [Other contributors, if any]
-
----
+- Soham Raut (230008031)  
+- Ashish Donth (230008011)  
+- Sohel Bhongade (230008032)  
+- Srajan Kewat (230008033)
 
 ## 📚 References
 
