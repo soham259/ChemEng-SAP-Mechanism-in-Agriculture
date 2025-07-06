@@ -4,7 +4,7 @@
 
 This project explores the **use of Super Absorbent Polymers (SAPs)** in agriculture, focusing on their ability to **retain water**, **slowly release nutrients**, and **improve soil conditions** for sustainable farming.
 
-> 📄 [Full Report (DOCX)](report/sap_report.docx)  
+> 📄 [Full Report (DOCX)](report.docx)  
 > 🎞️ [Presentation on Canva](https://www.canva.com/design/DAGW7CPGfbc/Z-GRgW1FYb8A86pjZiMNAQ/edit?utm_content=DAGW7CPGfbc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
